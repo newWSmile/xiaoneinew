@@ -1,0 +1,27 @@
+.head1 {
+    height: 101px;
+    width: 1000px;
+    background-color: steelblue;
+    margin: 0 auto;
+}
+.head1 .img1{
+    width: 713px;
+    float: left;
+}
+.head1 .img2{
+    width: 280px;
+    float: left;
+    margin-left: 4px;
+}
+.head1 .navil {
+    float: right;
+}
+.navil li{
+    float: left;
+    width: 55px;
+    height: 22px;
+    line-height: 22px;
+    text-align: center;
+    color: #C3CDDF;
+    list-style-type: none;
+}
