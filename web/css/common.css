@@ -40,7 +40,27 @@ a:hover{
     font-weight: bold;
     line-height: 20px;
 }
-/*纯黑粗体*/
+/*纯黑粗体 12px*/
 .font5{
     font-weight: bold;
+}
+/*华文新魏 粗体 20px*/
+.font6{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "华文新魏";
+}
+
+
+/*有一款按钮*/
+.button1{
+    background-color:   #ffffff;
+    cursor: hand;
+    width:   161px;
+    height:   41px;
+    background-image:   url(../images/front/regbtn.gif);
+    background-repeat:   no-repeat;
+    background-position:   center;
+    text-align:   center;
+    border: none;
 }

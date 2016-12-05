@@ -12,6 +12,6 @@
 
   </head>
   <body>
-      <jsp:forward page="/WEB-INF/public/register.jsp"></jsp:forward>
+      <jsp:forward page="/WEB-INF/self/home.jsp"></jsp:forward>
   </body>
 </html>

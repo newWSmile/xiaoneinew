@@ -27,7 +27,7 @@
                 <tr>
                     <td class="tab_td1">真实姓名:</td>
                     <td class="tab_td2"><input type="text" name="??"/></td>
-                    <td><span class="spanVal" >请输入真实姓名</span></td>
+                    <td><span class="spanVal" >请输入真实姓名 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;      </span></td>
                 </tr>
                 <tr>
                     <td class="tab_td1">性别:</td>
